@@ -23,6 +23,12 @@ namespace wssss
         public MainWindow()
         {
             InitializeComponent();
+            ghgfhgfhhg()
+                fghfg
+                gh
+                f
+
+                gfh
         }
     }
 }
